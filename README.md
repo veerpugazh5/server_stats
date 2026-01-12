@@ -42,4 +42,5 @@ chmod +x server-stats.sh
 # Run with sudo for full access to system logs
 sudo ./server-stats.sh
 ```
+https://roadmap.sh/projects/server-stats
 
