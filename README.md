@@ -27,6 +27,7 @@ A bash script to analyze and display basic server performance statistics on Linu
 ```bash
 # Clone the repository
 git clone https://github.com/veerpugazh5/server_stats.git
+cd server_stats
 
 # Make the script executable
 chmod +x server-stats.sh
